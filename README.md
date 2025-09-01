@@ -42,6 +42,10 @@ O projeto contém a tabela:
 - Apache (servidor web)
 - Amazon RDS e EC2
 
+## Video Demonstração
+
+É possível encontra a demonstração comentada das instâncias, ferramentas usadas etc por meio deste [link](https://drive.google.com/file/d/1xQtXtZ-Olo5qpcVA4fCfC0rvcTwRlJz9/view?usp=sharing).
+
 ## Observações
 
 - O arquivo `dbinfo.inc` **não deve ser compartilhado publicamente**, pois contém credenciais do banco.
